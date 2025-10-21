@@ -1,8 +1,22 @@
-# Engineering Challenges: Challenge 1
+# ESP32 Clock — Challenge 1
 
-## ESP32 Clock Project
+This project was developed for **Challenge 1** of the Engineering Challenges module. It implements a simple digital clock using an **ESP32 microcontroller**, displaying real-time hours, minutes, and seconds.
 
-Code for a LilyGo T-Display ESP32 clock project that connects to an NTP server to sync time and displays both a digital and analogue clock.
+## 🛠️ Technologies
 
-I used example code from the Arduino IDE and used the WiFi manager to avoid storing plaintext passwords.
+- **Microcontroller:** ESP32  
+- **Language:** C / C++  
+- **Framework:** Arduino / PlatformIO  
+- **Libraries:** Time and display libraries (e.g. `Time.h`, `WiFiManager.h`)
 
+## 🚀 Usage
+
+1. Clone the repository and open it in Arduino IDE or PlatformIO.  
+2. Select the **LilyGo T-Display** board.  
+3. Install required libraries.  
+4. Upload the code and view the time display on the connected module.
+
+---
+
+**Author:** [Daniel Harrington](https://www.linkedin.com/in/daniel-harrington-9834b4301)  
+**GitHub:** [@danielharrington06](https://github.com/danielharrington06)
