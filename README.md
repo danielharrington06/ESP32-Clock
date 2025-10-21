@@ -6,7 +6,7 @@ This project was developed for **Challenge 1** of the Engineering Challenges mod
 
 - **Microcontroller:** ESP32  
 - **Language:** C / C++  
-- **Framework:** Arduino / PlatformIO  
+- **Framework:** Arduino
 - **Libraries:** Time and display libraries (e.g. `Time.h`, `WiFiManager.h`)
 
 ## 🚀 Usage
